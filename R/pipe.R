@@ -2,6 +2,6 @@
 #'
 #' @export
 #'
-baseRpipe <- function(){
+pipe <- function(){
   rstudioapi::insertText(' |> ')
 }

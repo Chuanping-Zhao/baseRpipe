@@ -1,4 +1,4 @@
 Name: InsertPipe
 Description: Insert the pipe operator |> into the script
-Binding: baseRpipe
+Binding: pipe
 Interactive: false
