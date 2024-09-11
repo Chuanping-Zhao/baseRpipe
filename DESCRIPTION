@@ -1,0 +1,13 @@
+Package: baseRpipe
+Title: Use Base R Pipe Operator
+Version: 0.0.0.9000
+Authors@R: person("Chuanping", "Zhao", email = "zcphbumaster@163.com", role = c("aut", "cre"))
+Description: This package enhances the usability of the base R pipe operator ('|>') by providing an RStudio add-in that allows users to insert the pipe operator into their scripts via a keyboard shortcut. The package aims to streamline coding workflows in RStudio by simplifying the insertion of the pipe, thereby improving coding efficiency and readability.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports:
+    rstudioapi
+Suggests:
+    do
