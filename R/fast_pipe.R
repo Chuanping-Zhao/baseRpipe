@@ -1,7 +1,7 @@
-#' baseRpipe
+#' fast_pipe
 #'
 #' @export
 #'
-pipe <- function(){
+fast_pipe <- function(){
   rstudioapi::insertText(' |> ')
 }
