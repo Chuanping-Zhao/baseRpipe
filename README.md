@@ -14,6 +14,8 @@ if (!requireNamespace("devtools", quietly = TRUE))
 # Install baseRpipe from GitHub
 devtools::install_github("Chuanping-Zhao/baseRpipe")
 ```
+## example
+Setting as fllow: `Rstudio`>`Tools`>`Addins`>`baseRpipe`>`Keyboard Shortcuts...` >`InsetPipe`>`Shortcut`> `Ctrl+m`
 
 # Features
 The baseRpipe package provides the following features:
